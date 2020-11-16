@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/phonebook-7-react/static/css/main.82060bac.chunk.css",
-    "main.js": "/phonebook-7-react/static/js/main.2a45776f.chunk.js",
-    "main.js.map": "/phonebook-7-react/static/js/main.2a45776f.chunk.js.map",
+    "main.js": "/phonebook-7-react/static/js/main.64a0f93d.chunk.js",
+    "main.js.map": "/phonebook-7-react/static/js/main.64a0f93d.chunk.js.map",
     "runtime-main.js": "/phonebook-7-react/static/js/runtime-main.6ab58c01.js",
     "runtime-main.js.map": "/phonebook-7-react/static/js/runtime-main.6ab58c01.js.map",
     "static/js/2.056d76d8.chunk.js": "/phonebook-7-react/static/js/2.056d76d8.chunk.js",
     "static/js/2.056d76d8.chunk.js.map": "/phonebook-7-react/static/js/2.056d76d8.chunk.js.map",
     "index.html": "/phonebook-7-react/index.html",
-    "precache-manifest.cd0fc6b375e340b2f8f172d647d51a86.js": "/phonebook-7-react/precache-manifest.cd0fc6b375e340b2f8f172d647d51a86.js",
+    "precache-manifest.036ceecb50c411b0c6f2c534c3d24fe2.js": "/phonebook-7-react/precache-manifest.036ceecb50c411b0c6f2c534c3d24fe2.js",
     "service-worker.js": "/phonebook-7-react/service-worker.js",
     "static/css/main.82060bac.chunk.css.map": "/phonebook-7-react/static/css/main.82060bac.chunk.css.map",
     "static/js/2.056d76d8.chunk.js.LICENSE.txt": "/phonebook-7-react/static/js/2.056d76d8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6ab58c01.js",
     "static/js/2.056d76d8.chunk.js",
     "static/css/main.82060bac.chunk.css",
-    "static/js/main.2a45776f.chunk.js"
+    "static/js/main.64a0f93d.chunk.js"
   ]
 }
